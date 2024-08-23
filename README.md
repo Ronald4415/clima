@@ -1,16 +1,17 @@
-# clima
+### App Clima
 
-A new Flutter project.
+ Aplicacion movil de android la cual nos permite medir el clima dependiendo de nuestra ubicación diciendo:
+ - La ubicacion en la que nos encontramos
+ - El pronostico aproximado con un icono alusivo
+ - Por ultimo la temperatura aproximada en grados celcius 
 
-## Getting Started
+#### Instrucciones de uso y de instalación
 
-This project is a starting point for a Flutter application.
+Para instalar la app de clima en nuestros dispositivos Android desde de Visual Studio hay dos opciones: 
 
-A few resources to get you started if this is your first Flutter project:
+## Opcion #1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Es quizas la opcion mas dificil pero con ella podremos saber si tendremos errores en los codigos internos de nuestra app:
+- Como primer paso tendremos que abrir nuestra carpeta madre en el editor de codigo Visual Studio que contiene todos los archivos de nuestra app.
+- El segundo paso es conectar por USB nuestro disposivo movil al PC.
+- El tercer paso es configurar nuestro telefono en modo desarrollador para asi despues activar "La depuracion por USB", esto nos permitira que nuestro PC le envie la app al dispositivo movil 
