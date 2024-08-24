@@ -24,6 +24,6 @@ Es la opcion mas facil y rapida para la instalación de la app:
 - Al final del proceso, la terminal nos mostrara una ruta, solo debemos copiar esa ruta y pegarla en el administrador de archivos de nuestro pc, ahi encontraremos varios archivos, pero el que nos sirve es el .APK
 - Ya como ultimo paso, queda pasar ese archivo por medio de USB a nuestro telefono y apenas acabe la transferencia solo es cuestion de dar click y aceptar la instakación de la app
 
-#### LA APP YA TIENE UNA API KEY DENTRO DE LOS CODIGOS, NO HAY NECESIDAD DE CAMBIAR O PONER OTRA
+#### LA APP YA TIENE UNA API KEY DE OPENWATHER DENTRO DE LOS CODIGOS, NO HAY NECESIDAD DE CAMBIAR O PONER OTRA
 
 https://github.com/user-attachments/assets/95528875-6e45-44fe-95f3-1db02a25bcc1
